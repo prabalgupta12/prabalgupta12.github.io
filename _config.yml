@@ -1,0 +1,103 @@
+# Site Settings
+name: Prabal Gupta's BLog
+title: Prabal Gupta
+description: Prabal Gupta is professionally a CS undergraduate student
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+email: prabalgupta4343@gmail.com
+disqus_username: prabalgupta1mv18cs066
+show_hero: false
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
+
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: prabalgupta12
+facebook_username: prabalgupt
+twitter_username: PrabalG21258113
+instagram_username: karma__the_only_truth
+linkedin_username: prabal-gupta
+medium_username: prabalgupta4343
+
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: true
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-173665382-1"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+paginate_path: "/page/:num/"
+show_get_theme_btn: false
+use_logo: false
+
+# Content paginator
+paginate_content:
+  enabled: false
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# SASS
+sass:
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+# Theme
+version: v3.1.0

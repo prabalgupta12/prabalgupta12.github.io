@@ -1,0 +1,21 @@
+name: Prabal Gupta's BLog
+title: Prabal Gupta
+description: Prabal Gupta is professionally a CS undergraduate student
+tags:
+  - blog
+  - template
+  - jekyll
+  - theme
+  - netlify
+email: prabalgupta4343@gmail.com
+disqus_username: prabalgupta1mv18cs066
+show_hero: false
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
