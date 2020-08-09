@@ -10,7 +10,7 @@ tags:
   - netlify
 email: prabalgupta4343@gmail.com
 disqus_username: prabalgupta1mv18cs066
-show_hero: false
+show_hero: true
 menu:
   - title: Home
     url: /
