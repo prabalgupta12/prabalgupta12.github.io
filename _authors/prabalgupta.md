@@ -12,4 +12,3 @@ instagram_username: karma__the_only_truth
 linkedin_username: prabal-gupta
 medium_username: prabalgupta4343
 ---
-
