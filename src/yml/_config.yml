@@ -24,7 +24,7 @@ use_logo: false
 
 # Content paginator
 paginate_content:
-  enabled: false
+  enabled: true
   debug: false
   collections:
     - posts

@@ -1,6 +1,6 @@
 # Site Settings
 name: Prabal Gupta's BLog
-title: Prabal Gupta
+title: Prabal Gupta | A Blog Site for technical posts
 description: Prabal Gupta is professionally a CS undergraduate student
 tags:
   - blog
@@ -20,7 +20,8 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-
+email : prabalgupta4343@gmail.com
+disqus_username: prabalgupta1mv18cs066
 
 # Social Media Settings
 # Remove the item if you don't need it
@@ -42,7 +43,7 @@ two_columns_layout: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-173665382-1"
+google_analytics: "UA-173665382-2"
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
@@ -61,7 +62,7 @@ use_logo: false
 
 # Content paginator
 paginate_content:
-  enabled: false
+  enabled: true
   debug: false
   collections:
     - posts
