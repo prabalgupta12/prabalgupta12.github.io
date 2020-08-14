@@ -35,3 +35,6 @@ I believe that everything is possible with dedication and resilience.
 * [Code Forces](http://codeforces.com/profile/prabalgupta4343)
 
 * [Kaggle](https://www.kaggle.com/prabalgupta5)
+
+# Blog
+[Quora](https://www.quora.com/profile/Prabal-Gupta-21)
