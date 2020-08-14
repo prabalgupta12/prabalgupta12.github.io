@@ -14,7 +14,40 @@ permalink: /about/
 
 I believe that everything is possible with dedication and resilience. 
 
+# Skills
+* HTML
+
+* Responsive Design 
+
+* CSS (Stylus, Sass)
+
+* CSS Frameworks (Bootstrap)
+
+* Javascript , JSON , AJAX
+
+* React JS , Node JS 
+
+* Git & GitHub
+
+* Python
+
+* Python Frameworks (Django)
+
+* MySQL - PostgreSQL - SQLite
+
+* CPP 
+
+* JAVA
+
+* Data Science
+
+* Machine Learning
+
+* Amazon Web Services
+
 # Social Links
+* [Git Hub](https://github.com/prabalgupta12)
+
 * [LinkedIn](https://www.linkedin.com/in/prabal-gupta)
 
 * [Facebook](https://www.facebook.com/prabalgupt)
@@ -24,8 +57,6 @@ I believe that everything is possible with dedication and resilience.
 * [Instagram](https://www.instagram.com/karma__the_only_truth)
 
 # Programming Profiles
-* [Git Hub](https://github.com/prabalgupta12)
-
 * [Hacker Rank](https://www.hackerrank.com/prabalgupta4343)
 
 * [Code Chef](https://www.codechef.com/users/prabalgupta)
@@ -37,6 +68,8 @@ I believe that everything is possible with dedication and resilience.
 * [Kaggle](https://www.kaggle.com/prabalgupta5)
 
 # Blog
-[Quora](https://www.quora.com/profile/Prabal-Gupta-21)
+* [Quora](https://www.quora.com/profile/Prabal-Gupta-21)
 
-[Personal Blog site](https://prabalgupta12.github.io/)
+* [Personal Blog site](https://prabalgupta12.github.io/)
+
+* [Medium](https://medium.com/@prabalgupta4343)
