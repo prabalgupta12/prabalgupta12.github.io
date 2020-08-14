@@ -38,3 +38,5 @@ I believe that everything is possible with dedication and resilience.
 
 # Blog
 [Quora](https://www.quora.com/profile/Prabal-Gupta-21)
+
+[Personal Blog site](https://prabalgupta12.github.io/)
