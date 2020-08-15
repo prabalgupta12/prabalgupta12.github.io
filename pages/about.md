@@ -73,3 +73,6 @@ I believe that everything is possible with dedication and resilience.
 * [Personal Blog site](https://prabalgupta12.github.io/)
 
 * [Medium](https://medium.com/@prabalgupta4343)
+
+# Resume
+
