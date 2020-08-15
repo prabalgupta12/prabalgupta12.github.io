@@ -1,7 +1,7 @@
 # Site Settings
 name: Prabal Gupta's BLog
-title: Prabal Gupta | Developer
-description: Prabal Gupta is a Developer and Computer Science Engineering Graduate.
+title: Prabal Gupta | A Blog Site for technical posts
+description: Prabal Gupta is professionally a CS undergraduate student
 tags:
   - blog
   - template
@@ -42,7 +42,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://prabalgupta12.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-173665382-2"
 language: "en"
 categories_folder: category
@@ -66,7 +66,7 @@ paginate_content:
   debug: false
   collections:
     - posts
-  auto: true
+  auto: false
   separator: "--page-break--"
   permalink: "/:num/"
   seo_canonical: true
