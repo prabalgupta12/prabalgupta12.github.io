@@ -3,6 +3,12 @@ layout: post
 title: About Me
 description: Some description.
 permalink: /about/
+subtitle: 'Prabal Gupta'
+category: blog
+tags:
+  - welcome
+  - blog
+author: PrabalGupta
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Prabal Gupta" width="400">

@@ -5,8 +5,8 @@
     <description>Prabal Gupta is professionally a CS undergraduate student</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Aug 2020 23:37:15 +0530</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2020 23:37:15 +0530</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2020 01:28:15 +0530</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2020 01:28:15 +0530</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -16,7 +16,11 @@
         <link>http://localhost:4000/about/</link>
         <guid isPermaLink="true">http://localhost:4000/about/</guid>
         
-        <category></category>
+        <category>welcome</category>
+        
+        <category>blog</category>
+        
+        <category>blog</category>
       </item>
     
   </channel>
