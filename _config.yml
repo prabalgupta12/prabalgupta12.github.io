@@ -1,6 +1,6 @@
 # Site Settings
 name: Prabal Gupta's BLog
-title: Prabal Gupta | A Blog Site for technical posts
+title: Prabal Gupta | Blog Site to enrich your knowledge
 description: Prabal Gupta is professionally a CS undergraduate student
 tags:
   - blog
@@ -9,7 +9,7 @@ tags:
   - theme
   - netlify
 email: prabalgupta4343@gmail.com
-disqus_username: prabalgupta1mv18cs066
+disqus_username: prabalgupta12
 show_hero: true
 menu:
   - title: Home
@@ -21,16 +21,16 @@ menu:
   - title: Feed
     url: /feed.xml
 email : prabalgupta4343@gmail.com
-disqus_username: prabalgupta1mv18cs066
+disqus_username: prabalgupta12
 
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: prabalgupta12
-facebook_username: prabalgupt
-twitter_username: PrabalG21258113
-instagram_username: karma__the_only_truth
+facebook_username: prabalguptaa
+twitter_username: PrabalGupta__
+instagram_username: prabal_gupta__
 linkedin_username: prabal-gupta
-medium_username: prabalgupta4343
+medium_username: prabalgupta
 
 
 # Posts Settings

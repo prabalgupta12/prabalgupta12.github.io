@@ -50,14 +50,14 @@ I believe that everything is possible with dedication and resilience.
 
 * [LinkedIn](https://www.linkedin.com/in/prabal-gupta)
 
-* [Facebook](https://www.facebook.com/prabalgupt)
+* [Facebook](https://www.facebook.com/prabalguptaa)
 
-* [Twitter](https://twitter.com/PrabalG21258113)
+* [Twitter](https://twitter.com/PrabalGupta__)
 
-* [Instagram](https://www.instagram.com/karma__the_only_truth)
+* [Instagram](https://www.instagram.com/prabal_gupta__)
 
 # Programming Profiles
-* [Hacker Rank](https://www.hackerrank.com/prabalgupta4343)
+* [Hacker Rank](https://www.hackerrank.com/prabalgupta)
 
 * [Code Chef](https://www.codechef.com/users/prabalgupta)
 
@@ -72,7 +72,7 @@ I believe that everything is possible with dedication and resilience.
 
 * [Personal Blog site](https://prabalgupta12.github.io/)
 
-* [Medium](https://medium.com/@prabalgupta4343)
+* [Medium](https://medium.com/@prabalgupta)
 
 # Resume
 [Click here](https://drive.google.com/file/d/1pj5jdygIqI5FHv9L5M89evwkzJFJPC--/view?usp=sharing)
