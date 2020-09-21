@@ -7,7 +7,7 @@ subtitle: 'Prabal Gupta'
 category: blog
 tags:
   - welcome
-  - blog
+  - blog 
 author: PrabalGupta
 ---
 
