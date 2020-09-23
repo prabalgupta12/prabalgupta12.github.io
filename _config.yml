@@ -1,7 +1,7 @@
 # Site Settings
 name: Prabal Gupta's BLog
 title: Prabal Gupta | Blog Site to enrich your knowledge
-description: Prabal Gupta is professionally a CS undergraduate student
+description: Prabal Gupta is professionally a Computer Science undergraduate student
 tags:
   - blog
   - template
@@ -20,8 +20,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email : prabalgupta4343@gmail.com
-disqus_username: prabalgupta12
+
 
 # Social Media Settings
 # Remove the item if you don't need it
