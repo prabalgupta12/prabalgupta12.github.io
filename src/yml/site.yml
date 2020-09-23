@@ -1,5 +1,5 @@
 name: Prabal Gupta's Blog
-title: Prabal Gupta | Some cool stuffs to read 
+title: Prabal Gupta | Blog Site to enrich your knowledge
 description: Prabal Gupta is professionally a CS undergraduate student
 tags:
   - blog
@@ -7,8 +7,6 @@ tags:
   - jekyll
   - theme
   - netlify
-email: prabalgupta4343@gmail.com
-disqus_username: prabalgupta12
 show_hero: true
 menu:
   - title: Home

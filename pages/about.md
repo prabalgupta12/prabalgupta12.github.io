@@ -25,7 +25,9 @@ I believe that everything is possible with dedication and resilience.
 
 * Javascript , JSON , AJAX
 
-* React JS , Node JS 
+* React JS , Node.JS 
+
+* Express JS , MongoDB 
 
 * Git & GitHub
 
