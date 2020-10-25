@@ -48,6 +48,8 @@ I believe that everything is possible with dedication and resilience.
 * Amazon Web Services
 
 # Social Links
+* [Mozillian](https://mozillians.org/en-CA/u/prabalgupta4343/)
+
 * [Git Hub](https://github.com/prabalgupta12)
 
 * [LinkedIn](https://www.linkedin.com/in/prabal-gupta)
