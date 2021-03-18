@@ -3,9 +3,9 @@
   
   
     {
-      "title"    : "About Me",
-      "tags"     : "welcome and blog",
-      "categories" : "blog",
+      "title"    : "About",
+      "tags"     : "",
+      "categories" : "",
       "url"      : "/about/",
       "date"     : "08/24/2020"
     } 
