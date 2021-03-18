@@ -1,19 +1,13 @@
 ---
-layout: post
-title: About Me
+layout: page
+title: About
 description: Some description.
 permalink: /about/
-subtitle: 'Prabal Gupta'
-category: blog
-tags:
-  - welcome
-  - blog 
-author: PrabalGupta
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Prabal Gupta" width="400">
 
-
+# About
  My name is Prabal Gupta
 
  I am passionate about challenges, technology, travel and personal development.
@@ -31,7 +25,9 @@ I believe that everything is possible with dedication and resilience.
 
 * Javascript , JSON , AJAX
 
-* React JS , Node JS 
+* React JS , Node.JS 
+
+* Express JS , MongoDB 
 
 * Git & GitHub
 
@@ -52,6 +48,8 @@ I believe that everything is possible with dedication and resilience.
 * Amazon Web Services
 
 # Social Links
+* [Mozillian](https://mozillians.org/en-CA/u/prabalgupta4343/)
+
 * [Git Hub](https://github.com/prabalgupta12)
 
 * [LinkedIn](https://www.linkedin.com/in/prabal-gupta)
@@ -70,8 +68,6 @@ I believe that everything is possible with dedication and resilience.
 * [Hacker Earth](https://www.hackerearth.com/@prabalgupta)
 
 * [Code Forces](http://codeforces.com/profile/prabalgupta4343)
-
-* [Geeks for Geeks](https://auth.geeksforgeeks.org/user/prabalgupta1/practice/)
 
 * [Kaggle](https://www.kaggle.com/prabalgupta5)
 
