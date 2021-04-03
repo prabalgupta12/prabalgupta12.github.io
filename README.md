@@ -1,4 +1,5 @@
 
 # Blog site that is made using jekyll and hosted on github pages
 
-Netlify (link)https://prabalguptablog.netlify.app/
+# Netlify - https://prabalguptablog.netlify.app/
+# Github Pages - https://prabalgupta12.github.io
