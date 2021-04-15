@@ -81,5 +81,5 @@ I believe that everything is possible with dedication and resilience.
 * [Medium](https://medium.com/@prabalgupta)
 
 # Resume
-[Click here](https://drive.google.com/file/d/1pj5jdygIqI5FHv9L5M89evwkzJFJPC--/view?usp=sharing)
+[Click here](https://drive.google.com/file/d/1sVp0gOHmPLOu6q8HiXTUVa6xZUHTOPHQ/view?usp=sharing)
 
