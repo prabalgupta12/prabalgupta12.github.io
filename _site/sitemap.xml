@@ -187,6 +187,13 @@
     
     
         <url>
+            <loc>http://localhost:4000/Prabal-Gupta-Tweets/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2021-10-01</lastmod>
+        </url>
+    
+        <url>
             <loc>http://localhost:4000/about/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
