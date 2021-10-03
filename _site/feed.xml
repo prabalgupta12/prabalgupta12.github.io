@@ -5,8 +5,8 @@
     <description>Prabal Gupta is professionally a Computer Science undergraduate student</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Oct 2021 00:39:01 +0530</pubDate>
-    <lastBuildDate>Sat, 02 Oct 2021 00:39:01 +0530</lastBuildDate>
+    <pubDate>Sun, 03 Oct 2021 10:17:16 +0530</pubDate>
+    <lastBuildDate>Sun, 03 Oct 2021 10:17:16 +0530</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -22,7 +22,7 @@
     
       <item>
         <title>About</title>
-        <description>&lt;p&gt;&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/img/uploads/profile.png&quot; alt=&quot;Prabal Gupta&quot; width=&quot;400&quot; /&gt;&lt;/p&gt; &lt;h1 id=&quot;about&quot;&gt;About&lt;/h1&gt; &lt;p&gt;My name is Prabal Gupta&lt;/p&gt; &lt;p&gt;I am passionate about challenges, technology, travel and personal development.&lt;/p&gt; &lt;p&gt;I believe that everything is possible with dedication and resilience.&lt;/p&gt; &lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;HTML&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Responsive Design&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;CSS (Stylus, Sass)&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;CSS Frameworks (Bootstrap)&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Javascript , JSON , AJAX&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;React JS , Node.JS&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Express JS , MongoDB&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Git &amp;amp; GitHub&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Python&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Python Frameworks (Django)&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;MySQL - PostgreSQL - SQLite&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;CPP&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;JAVA&lt;/p&gt; &lt;/li&gt; &lt;li&gt;...</description>
+        <description>&lt;p&gt;&lt;img class=&quot;img-rounded&quot; src=&quot;/assets/img/uploads/profile.png&quot; alt=&quot;Prabal Gupta&quot; width=&quot;400&quot; /&gt;&lt;/p&gt; &lt;h1 id=&quot;about&quot;&gt;About&lt;/h1&gt; &lt;p&gt;My name is Prabal Gupta&lt;/p&gt; &lt;p&gt;I am passionate about challenges, technology, travel and personal development.&lt;/p&gt; &lt;p&gt;I believe that everything is possible with dedication and resilience.&lt;/p&gt; &lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt; &lt;ul&gt; &lt;li&gt; &lt;p&gt;HTML&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Responsive Design&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;CSS (Stylus, Sass)&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;CSS Frameworks (Bootstrap)&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Javascript , JSON , AJAX&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;React.js, Angular, Node.js&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Express.js, MongoDB&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Git, GitHub, GitLab&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Python&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;Python Frameworks (Django/Flask)&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;MySQL - PostgreSQL - SQLite&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;MongoDB&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;C++&lt;/p&gt; &lt;/li&gt; &lt;li&gt; &lt;p&gt;REST API&lt;/p&gt; &lt;/li&gt;...</description>
         <pubDate>Mon, 24 Aug 2020 00:00:00 +0530</pubDate>
         <link>http://localhost:4000/about/</link>
         <guid isPermaLink="true">http://localhost:4000/about/</guid>
